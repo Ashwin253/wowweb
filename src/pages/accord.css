@@ -1,0 +1,18 @@
+.accordion-content {
+    animation-name: slide-down;
+    animation-duration: 0.3s;
+    animation-fill-mode: forwards;
+    opacity: 0;
+    animation-delay: 0.2s;
+  }
+  
+  @keyframes slide-down {
+    from {
+      transform: translateY(-10px);
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
