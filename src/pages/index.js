@@ -78,6 +78,7 @@ export default function Home() {
 <Glassmorphism/>
 <Head>
         <title>Wonder On Web</title>
+            <meta name="google-site-verification" content="Mdw-pPMFSg8CVHWQJItHVxcJ551f4UddPegA2BqONjQ" />
       </Head>
 <section className="text-gray-600 body-font">
   <div className="container px-5 py-24 mx-auto">
