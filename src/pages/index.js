@@ -49,6 +49,7 @@ export default function Home() {
  ]
   return (
     <div className='bg-white'>
+    <meta name="google-site-verification" content="Mdw-pPMFSg8CVHWQJItHVxcJ551f4UddPegA2BqONjQ" />
     <header className="flex text-gray-600 body-font justify-evenly	">
   <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row justify-between	">
     <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
